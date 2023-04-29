@@ -1,4 +1,6 @@
-I prepared the the function you requested the task was developed ( BACKEND LARAVEL + front end NEXT.JS 31 With typescript , Axsios a promised-based HTTP client and tailwindcss )
+Introduction
+
+Task was developed ( BACKEND LARAVEL + front end NEXT.JS 31 With typescript , Axsios a promised-based HTTP client and tailwindcss )
 
 1. git clone the repot 
 2. open up the frontend folder and run the npm run dev command to start next.js 13 
